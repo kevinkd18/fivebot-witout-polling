@@ -1,0 +1,22 @@
+2025-02-02 15:48:34,606 [ERROR] [__main__] Skipping bot 1 due to configuration error: Missing required configuration values
+2025-02-02 15:48:34,606 [ERROR] [__main__] Skipping bot 2 due to configuration error: Missing required configuration values
+2025-02-02 15:48:34,606 [ERROR] [__main__] Skipping bot 3 due to configuration error: Missing required configuration values
+2025-02-02 15:48:34,606 [ERROR] [__main__] Skipping bot 4 due to configuration error: Missing required configuration values
+2025-02-02 15:48:34,606 [ERROR] [__main__] Skipping bot 5 due to configuration error: Missing required configuration values
+2025-02-02 15:48:34,606 [ERROR] [__main__] Skipping bot 6 due to configuration error: Missing required configuration values
+2025-02-02 15:48:34,608 [INFO] [__main__] Starting Flask server...
+2025-02-02 15:48:34,613 [INFO] [werkzeug] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.0.0.145:5000
+2025-02-02 15:48:34,613 [INFO] [werkzeug] [33mPress CTRL+C to quit[0m
+2025-02-02 15:48:47,573 [ERROR] [__main__] Webhook received for unknown bot: Jdoejwndidodbot
+2025-02-02 15:48:47,573 [INFO] [werkzeug] 127.0.0.1 - - [02/Feb/2025 15:48:47] "[33mPOST /webhook/Jdoejwndidodbot HTTP/1.1[0m" 404 -
+2025-02-02 15:48:48,624 [ERROR] [__main__] Webhook received for unknown bot: Jdoejwndidodbot
+2025-02-02 15:48:48,625 [INFO] [werkzeug] 127.0.0.1 - - [02/Feb/2025 15:48:48] "[33mPOST /webhook/Jdoejwndidodbot HTTP/1.1[0m" 404 -
+2025-02-02 15:48:51,529 [ERROR] [__main__] Webhook received for unknown bot: Jdoejwndidodbot
+2025-02-02 15:48:51,530 [INFO] [werkzeug] 127.0.0.1 - - [02/Feb/2025 15:48:51] "[33mPOST /webhook/Jdoejwndidodbot HTTP/1.1[0m" 404 -
+2025-02-02 15:48:55,963 [ERROR] [__main__] Webhook received for unknown bot: Jdoejwndidodbot
+2025-02-02 15:48:55,963 [INFO] [werkzeug] 127.0.0.1 - - [02/Feb/2025 15:48:55] "[33mPOST /webhook/Jdoejwndidodbot HTTP/1.1[0m" 404 -
+2025-02-02 15:49:04,252 [ERROR] [__main__] Webhook received for unknown bot: Jdoejwndidodbot
+2025-02-02 15:49:04,252 [INFO] [werkzeug] 127.0.0.1 - - [02/Feb/2025 15:49:04] "[33mPOST /webhook/Jdoejwndidodbot HTTP/1.1[0m" 404 -
